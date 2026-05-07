@@ -706,19 +706,19 @@ p {
 }
 
 .card.accent-peach {
-  background: radial-gradient(circle at 30% 30%, rgba(255, 240, 235, 0.98), rgba(255, 245, 238, 0.95), rgba(255, 227, 138, 0.92));
+  background: radial-gradient(circle at 30% 30%, rgba(255, 235, 225, 0.98), rgba(255, 242, 235, 0.95), rgba(255, 228, 218, 0.92));
   background-size: 150% 150%;
   animation: gradientSwirl 10s ease-in-out infinite;
 }
 
 .card.accent-sky {
-  background: radial-gradient(circle at 70% 40%, rgba(238, 249, 248, 0.98), rgba(248, 252, 250, 0.95), rgba(191, 238, 230, 0.92));
+  background: radial-gradient(circle at 70% 40%, rgba(230, 245, 242, 0.98), rgba(240, 250, 246, 0.95), rgba(220, 242, 238, 0.92));
   background-size: 150% 150%;
   animation: gradientSwirl 12s ease-in-out infinite;
 }
 
 .card.accent-mint {
-  background: radial-gradient(circle at 40% 60%, rgba(238, 249, 239, 0.98), rgba(242, 255, 243, 0.95), rgba(110, 196, 154, 0.92));
+  background: radial-gradient(circle at 40% 60%, rgba(230, 248, 235, 0.98), rgba(240, 252, 242, 0.95), rgba(225, 245, 230, 0.92));
   background-size: 150% 150%;
   animation: gradientSwirl 14s ease-in-out infinite;
 }
